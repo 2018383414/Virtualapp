@@ -1,0 +1,1 @@
+D:\virapp\kaiyuan\VirtualApp\VirtualApp\lib\build\intermediates\ndkBuild\release\obj\local\arm64-v8a

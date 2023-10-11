@@ -1,0 +1,2 @@
+D:\virapp\kaiyuan\VirtualApp\VirtualApp\lib\src\main\jni\Android.mk
+D:\virapp\kaiyuan\VirtualApp\VirtualApp\lib\src\main\jni\Application.mk

@@ -1,0 +1,130 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\.cxx\\ndkBuild\\release\\arm64-v8a",
+  "cxxBuildFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\.cxx\\ndkBuild\\release\\arm64-v8a",
+  "abiPlatformVersion": 19,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "objFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\build\\intermediates\\ndkBuild\\release\\obj\\local",
+    "soFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\build\\intermediates\\ndkBuild\\release\\lib",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\.cxx",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\build\\intermediates",
+      "gradleModulePathName": ":lib",
+      "moduleRootFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib",
+      "moduleBuildFile": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\build.gradle",
+      "makeFile": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "D:\\androidide\\ndk\\21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "originalCmakeToolchainFile": "D:\\androidide\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+      "cmakeToolchainFile": "D:\\androidide\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "D:\\androidide\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "D:\\androidide\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "D:\\androidide\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "D:\\androidide\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp",
+        "cxxFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\.cxx",
+        "compilerSettingsCacheFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\.cxx",
+        "sdkFolder": "D:\\androidide",
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false,
+        "isV2NativeModelEnabled": true
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabDirectory": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\.cxx\\ndkBuild\\release\\prefab"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "D:\\virapp\\kaiyuan\\VirtualApp\\VirtualApp\\lib\\.cxx\\ndkBuild\\release\\prefab\\arm64-v8a"
+}
